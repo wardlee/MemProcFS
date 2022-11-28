@@ -44,8 +44,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dissect.cstruct", "dissect.
 		files\dissect\cstruct\__init__.py = files\dissect\cstruct\__init__.py
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leechcore", "..\LeechCore\leechcore\leechcore.vcxproj", "{3476ABD2-5DEA-43E6-A676-8BE25F74535A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vmmsharp", "vmmsharp\vmmsharp.csproj", "{3CDF36DD-2B04-4876-B4BF-29FED2386E6A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vmmjava", "vmmjava", "{1390A2F3-1ECE-4A66-8B60-6FDCB599BE63}"
@@ -168,18 +166,6 @@ Global
 		{45CC506E-E97A-45B8-8050-B2C5BC8A4B15}.Release|x64.Build.0 = Release|x64
 		{45CC506E-E97A-45B8-8050-B2C5BC8A4B15}.Release|x86.ActiveCfg = Release|Win32
 		{45CC506E-E97A-45B8-8050-B2C5BC8A4B15}.Release|x86.Build.0 = Release|Win32
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Debug|ARM64.ActiveCfg = Debug|ARM64
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Debug|ARM64.Build.0 = Debug|ARM64
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Debug|x64.ActiveCfg = Debug|x64
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Debug|x64.Build.0 = Debug|x64
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Debug|x86.ActiveCfg = Debug|Win32
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Debug|x86.Build.0 = Debug|Win32
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Release|ARM64.ActiveCfg = Release|ARM64
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Release|ARM64.Build.0 = Release|ARM64
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Release|x64.ActiveCfg = Release|x64
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Release|x64.Build.0 = Release|x64
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Release|x86.ActiveCfg = Release|Win32
-		{3476ABD2-5DEA-43E6-A676-8BE25F74535A}.Release|x86.Build.0 = Release|Win32
 		{3CDF36DD-2B04-4876-B4BF-29FED2386E6A}.Debug|ARM64.ActiveCfg = Debug|x64
 		{3CDF36DD-2B04-4876-B4BF-29FED2386E6A}.Debug|x64.ActiveCfg = Debug|x64
 		{3CDF36DD-2B04-4876-B4BF-29FED2386E6A}.Debug|x86.ActiveCfg = Debug|x64
