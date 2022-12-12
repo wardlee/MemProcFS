@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="VmmH.cs" />
     <Compile Include="vmmsharp.cs" />
     <Compile Include="vmm_example.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
